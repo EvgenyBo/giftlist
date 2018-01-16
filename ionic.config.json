@@ -1,0 +1,8 @@
+{
+  "name": "giftlist",
+  "app_id": "ba2d1944",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
